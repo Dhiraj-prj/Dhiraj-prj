@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dhiraj-prj
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning programming languages like java script, python, C.
+- 💞️ I’m looking to collaborate on any projects for improving my skills.
+- 📫 For reaching me contract me at -parajulidhiraj00@gmail.com 
